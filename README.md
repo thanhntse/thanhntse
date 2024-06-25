@@ -66,5 +66,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>Top Languages</b>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhntse&orgs=Court-Star&size_weight=0.5&count_weight=0.5&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhntse&orgs=Court-Star&langs_count=10)
 
