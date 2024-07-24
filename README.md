@@ -20,7 +20,7 @@ ThanhNT
 
 - <b>Languages and Tools</b>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,javascript,typescript,docker,rabbitmq,git,github,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,javascript,typescript,docker,rabbitmq,git,github,postman,selenium)](https://skillicons.dev)
 
 - <b>Frontend</b>
 
