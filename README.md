@@ -14,7 +14,7 @@ ThanhNT
 
 <b>Top Languages</b>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhntse&orgs=Court-Star&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhntse&orgs=Court-Star&langs_count=10&hide=css,html&size_weight=0.5&count_weight=0.5)
 
 ### Technical Skills
 
